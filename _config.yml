@@ -1,9 +1,9 @@
-title: "Xiaolong Jia"
-name: "Xiaolong Jia"
+title: "LyingMoon"
+name: "LyingMoon"
 description: "Personal website, projects, and blog."
 
 # GitHub Pages
-url: "https://xiaolongjia.github.io"
+url: "https://LyingMoon.github.io"
 baseurl: ""
 
 # Theme
@@ -20,17 +20,17 @@ plugins:
 
 # Author sidebar/profile
 author:
-  name: "Xiaolong Jia"
+  name: "LyingMoon"
   avatar: "/assets/images/avatar.jpg"
   bio: "Engineer and maker. I build things and write about them."
-  email: "xiaolong.jia@example.com"
+  email: "lyingmoon@example.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/xiaolongjia"
+      url: "https://github.com/LyingMoon"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/xiaolongjia"
+      url: "https://www.linkedin.com/in/LyingMoon"
 
 # Simple navigation list (reference)
 navigation:
@@ -71,4 +71,3 @@ include:
 
 paginate: 5
 paginate_path: "/blog/page:num/"
-
