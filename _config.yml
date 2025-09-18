@@ -1,0 +1,74 @@
+title: "Xiaolong Jia"
+name: "Xiaolong Jia"
+description: "Personal website, projects, and blog."
+
+# GitHub Pages
+url: "https://xiaolongjia.github.io"
+baseurl: ""
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@latest"
+minimal_mistakes_skin: "default"
+locale: "en-US"
+
+# Plugins supported by GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Author sidebar/profile
+author:
+  name: "Xiaolong Jia"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Engineer and maker. I build things and write about them."
+  email: "xiaolong.jia@example.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/xiaolongjia"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/xiaolongjia"
+
+# Simple navigation list (reference)
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "Blog"
+    url: /blog/
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: /cv/
+
+# Markdown / formatting
+kramdown:
+  input: GFM
+
+permalink: /:categories/:title/
+
+# Defaults for content
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+# Include custom pages folder
+include:
+  - _pages
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
