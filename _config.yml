@@ -20,17 +20,17 @@ plugins:
 
 # Author sidebar/profile
 author:
-  name: "LyingMoon"
+  name: "Xiaolong Jia"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Engineer and maker. I build things and write about them."
-  email: "lyingmoon@example.com"
+  bio: "Pyramids"
+  email: "xij62@stanford.edu"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/LyingMoon"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/LyingMoon"
+      url: "https://www.linkedin.com/in/xiaolong-jia62"
 
 # Simple navigation list (reference)
 navigation:
