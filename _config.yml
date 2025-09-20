@@ -34,10 +34,6 @@ author:
 
 # Simple navigation list (reference)
 navigation:
-  - title: "About"
-    url: /about/
-  - title: "Blog"
-    url: /blog/
   - title: "Projects"
     url: /projects/
   - title: "CV"
@@ -69,5 +65,3 @@ defaults:
 include:
   - _pages
 
-paginate: 5
-paginate_path: "/blog/page:num/"
