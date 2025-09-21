@@ -46,7 +46,7 @@ author_profile: true
 
   <div style="display: flex; align-items: flex-start; margin-bottom: 30px; gap: 20px;">
     <div style="flex: 0 0 200px;">
-      <img src="/assets/projects/SousVide.jpg" alt="Project 4" style="width: 100%; border-radius: 8px;">
+      <img src="/assets/projects/SousVide.png" alt="Project 4" style="width: 100%; border-radius: 8px;">
     </div>
     <div style="flex: 1;">
       <h3 style="margin-top: 0;"><strong>SousVide Latent Analysis</strong></h3>
