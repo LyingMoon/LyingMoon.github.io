@@ -60,6 +60,13 @@ defaults:
       layout: single
       author_profile: true
 
+# Analytics (invisible tracking)
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-N8PMNE1X41"  # Replace with your actual Google Analytics tracking ID
+    anonymize_ip: false
+
 # Include custom pages folder
 include:
   - _pages
