@@ -1,6 +1,6 @@
 title: "LyingMoon"
 name: "LyingMoon"
-description: "Personal website, projects, and blog."
+description: "Personal website"
 
 # GitHub Pages
 url: "https://LyingMoon.github.io"
@@ -20,9 +20,9 @@ plugins:
 
 # Author sidebar/profile
 author:
-  name: "Xiaolong Jia"
+  name: "Xiaolong Jia (Sean)"
   avatar: "/assets/images/avatar.jpg"
-  bio: "Pyramids"
+  bio: "Seeking 26 Robotics Software Engineer Opportunities"
   email: "xij62@stanford.edu"
   links:
     - label: "GitHub"
