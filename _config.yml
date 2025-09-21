@@ -1,5 +1,5 @@
-title: "LyingMoon"
-name: "LyingMoon"
+title: "About Xiaolong"
+name: "About Xiaolong"
 description: "Personal website"
 
 # GitHub Pages
@@ -36,8 +36,8 @@ author:
 navigation:
   - title: "Projects"
     url: /projects/
-  - title: "CV"
-    url: /cv/
+  - title: "Teaching"
+    url: /teaching/
 
 # Markdown / formatting
 kramdown:
